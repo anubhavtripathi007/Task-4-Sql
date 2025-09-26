@@ -1,6 +1,3 @@
--- Task 4: SQL Developer Internship
--- Aggregate Functions and Grouping
-
 -- 1. Count total employees
 SELECT COUNT(*) AS total_employees FROM employees;
 
